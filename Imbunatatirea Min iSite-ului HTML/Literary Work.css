@@ -1,0 +1,22 @@
+table {
+    width: 1000px;
+}
+
+th {
+    text-align: left;
+}
+
+table, th, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+p {
+    font-family: Arial;
+    font-size: 15px;
+}
